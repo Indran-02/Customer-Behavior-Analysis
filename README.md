@@ -2,34 +2,6 @@
 
 ![Dashboard Screenshot](https://github.com/Indran-02/Customer-Behavior-Analysis/blob/main/Customer%20Analysis%20Dashboard.png)
 
-## 🔎 Overview
-This project demonstrates a complete **data analytics workflow** — from raw dataset to actionable insights. It covers data loading, exploratory data analysis (EDA), cleaning, SQL queries, dashboard creation, and reporting. The goal is to showcase end‑to‑end analytical skills and the ability to communicate findings clearly to stakeholders.
-
----
-
-## 📂 Dataset
-- **Source:** Publicly available dataset (customer_shopping_behaviour from kaggle)  
-- **Content:** Customer transactions, demographics, and product interactions  
-- **Size:** 3900 rows, 18 columns (update with actual numbers)  
-- **Format:** CSV
-
----
-
-## 🛠️ Tools & Technologies
-- **Python (Pandas)** → Data loading, cleaning, EDA  
-- **PostgreSQL** → SQL queries and relational data analysis  
-- **Power BI** → Interactive dashboard creation  
-- **Gamma** → Professional presentation slides  
-- **GitHub** → Version control and portfolio showcase  
-
----
-
-## 📝 Steps
-1. **Load Dataset** → Import CSV into Python  
-2. Here’s a polished, recruiter‑friendly **README.md** template you can use for your project. It’s structured, clear, and highlights both technical and professional impact:  
-
----
-
 # 📊 Customer Behavior Analytics Project
 
 ## 🔎 Overview
