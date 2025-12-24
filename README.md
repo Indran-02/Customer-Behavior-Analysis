@@ -69,6 +69,8 @@ This project demonstrates a complete **data analytics workflow** — from raw da
 
 The Power BI dashboard provides a comprehensive view of customer behavior and sales performance at **ABC Hypermarket**, with interactive filters for Subscription Status, Gender, Product Category, and Shipping Type.
 
+![Dashboard Screenshot](https://github.com/Indran-02/Customer-Behavior-Analysis/blob/main/Customer%20Analysis%20Dashboard.png)
+
 ### Key Metrics:
 - **Average Purchase Amount:** $59.76  
 - **Average Review Rating:** 3.75  
