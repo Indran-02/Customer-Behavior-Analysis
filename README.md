@@ -1,5 +1,7 @@
 # 📊 Customer Behavior Analytics Project
 
+![Dashboard Screenshot](https://github.com/Indran-02/Customer-Behavior-Analysis/blob/main/Customer%20Analysis%20Dashboard.png)
+
 ## 🔎 Overview
 This project demonstrates a complete **data analytics workflow** — from raw dataset to actionable insights. It covers data loading, exploratory data analysis (EDA), cleaning, SQL queries, dashboard creation, and reporting. The goal is to showcase end‑to‑end analytical skills and the ability to communicate findings clearly to stakeholders.
 
